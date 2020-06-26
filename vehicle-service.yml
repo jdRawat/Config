@@ -1,0 +1,3 @@
+service:
+  greeting: Hello from vehicle default service
+  id: Vehicle-service-default

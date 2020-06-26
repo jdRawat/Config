@@ -1,0 +1,3 @@
+service:
+  greeting: Hello from vehicle service prod
+  id: vehicle-service-prod
